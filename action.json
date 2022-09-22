@@ -3,11 +3,11 @@
 	"admob_banner": "ca-app-pub-6666180860687847/7043668616",
 	"admob_inter": "ca-app-pub-6666180860687847/4729879353",
 
-	"APP_KEY": "119bd88ed",
-	"BANNER_PLACEMENT": "DefaultBanner",
-	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+	"APP_KEY": "",
+	"BANNER_PLACEMENT": "3162981380694636_3162985770694197",
+	"INTERSTITIAL_PLACEMENT": "3162981380694636_3162985970694177",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
